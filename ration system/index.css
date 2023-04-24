@@ -1,0 +1,217 @@
+.foodgrains-loco-1,
+.loco-right-1 {
+  position: absolute;
+  top: 0;
+  height: 6.94rem;
+  object-fit: cover;
+}
+.loco-right-1 {
+  left: 83.06rem;
+  width: 6.94rem;
+}
+.foodgrains-loco-1 {
+  left: 0;
+  width: 28.31rem;
+}
+.logo,
+.ration-card-1066x533-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90rem;
+}
+.logo {
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 6.94rem;
+  overflow: hidden;
+}
+.ration-card-1066x533-1-icon {
+  height: 11.19rem;
+  object-fit: cover;
+}
+.group-child,
+.photo {
+  position: absolute;
+  left: 0;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.photo {
+  top: 6.94rem;
+  width: 90rem;
+  height: 11.19rem;
+  overflow: hidden;
+}
+.group-child {
+  top: 0;
+  background-color: var(--color-gainsboro-200);
+  width: 35.06rem;
+  height: 6.25rem;
+}
+.client-detail {
+  position: absolute;
+  top: calc(50% - 27px);
+  left: calc(50% - 236.5px);
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 29.5rem;
+  height: 3.31rem;
+}
+.rectangle-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 17.56rem;
+  left: 3.94rem;
+  width: 35.06rem;
+  height: 6.25rem;
+}
+.client,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.client {
+  width: 45rem;
+  height: 44.56rem;
+  overflow: hidden;
+}
+.group-item {
+  background-color: rgba(217, 217, 217, 0.14);
+  width: 35.06rem;
+  height: 6.25rem;
+}
+.shopkeeper-login {
+  position: absolute;
+  top: calc(50% - 29px);
+  left: calc(50% - 168.5px);
+  display: inline-block;
+  width: 21.06rem;
+  height: 3.69rem;
+}
+.group-inner,
+.rectangle-group {
+  position: absolute;
+  top: 4.69rem;
+  left: 4.94rem;
+  width: 35.06rem;
+  height: 6.25rem;
+}
+.group-inner {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-gainsboro-300);
+  top: 3.25rem;
+  left: 1.81rem;
+  box-sizing: border-box;
+  width: 29.88rem;
+  height: 4.5rem;
+}
+.user-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 24.44rem;
+  height: 3.75rem;
+}
+.rectangle-container,
+.rectangle-input {
+  position: absolute;
+  top: 14.06rem;
+  left: 3.13rem;
+  width: 31.69rem;
+  height: 7.75rem;
+}
+.rectangle-input {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-gainsboro-300);
+  top: 3.75rem;
+  left: 1.81rem;
+  box-sizing: border-box;
+  width: 29.88rem;
+  height: 4.5rem;
+}
+.group-div {
+  position: absolute;
+  top: 24.44rem;
+  left: 3.13rem;
+  width: 31.69rem;
+  height: 8.25rem;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: rgba(217, 217, 217, 0.6);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 12.31rem;
+  height: 5.69rem;
+}
+.login {
+  position: absolute;
+  top: 1.56rem;
+  left: 2rem;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 8.38rem;
+  height: 2.88rem;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 35.81rem;
+  left: 13.69rem;
+  width: 12.31rem;
+  height: 5.69rem;
+}
+.client-parent,
+.shopkeeper {
+  position: absolute;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.shopkeeper {
+  top: 0;
+  left: 45rem;
+  width: 45rem;
+  height: 44.56rem;
+}
+.client-parent {
+  top: 18.13rem;
+  left: 0;
+  width: 90rem;
+  height: 45.88rem;
+}
+.desktop-1 {
+  position: relative;
+  background: conic-gradient(
+    from 0deg at 50% 50%,
+    #bac6f2 0deg,
+    rgba(255, 255, 255, 0) 360deg
+  );
+  width: 100%;
+  height: 64rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
